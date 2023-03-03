@@ -1,0 +1,159 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+/* .container-form{
+  width: 600px;
+  border:  solid #66ae1e;
+  display: block;
+  margin: 0 auto;
+}
+
+.container-form .title{
+  width: 100%;
+  height: 39px;
+  background-color: #66ae1e;
+}
+
+.container-form .title h2{
+  font-size: 20px;
+  color: #fff;
+  text-align: center;
+  line-height: 40px;
+}
+
+.input_content label{
+  width: 130px;
+  margin-right: 20px;
+  font-size: 12px;
+  font-weight: bold;
+  text-align: right;
+}
+
+.input_content{
+  display: flex;
+  margin: 10px 0;
+  align-items: center;
+} */
+
+/* .input_content:nth-child(1) input,
+.input_content:nth-child(2) input,
+.input_content:nth-child(3) input{
+  width: 190px;
+}
+
+.input_content:nth-child(4) input,
+.input_content:nth-child(5) input{
+  width: 320px;
+} */
+
+/* .input_content button.send{
+  width: 55px;
+  height: 26px;
+  border: none;
+  border-radius: 3px;
+  color: #fff;
+  margin: 2px 5px 0 0;
+  background-color: #78b43d;
+  cursor: pointer;
+}
+
+.input_content button.exit{
+  width: 86px;
+  height: 29px;
+  color: #fff;
+  border-radius: 3px;
+  border: none;
+  font-weight: bold;
+  background-color: #62656d;
+  cursor: pointer;
+}
+
+.input_content button.exit:hover{
+  color: #66ae1e;
+} */
+
+/* .ghichu{
+  margin-bottom: 5px;
+  margin: 0 10px;
+  padding-top: 5px;
+  border-top: 1px dashed #e6e6e6;
+}
+
+.ghichu p{
+  padding: 10px;
+  background-color: #e6e6e6;
+  font-size: 11px;
+  font-style: italic;
+} */
+
+.container-form{
+  width: 600px;
+  border:  solid #66ae1e;
+  display: block;
+  margin: 0 auto;
+}
+
+.container-form .title{
+  width: 100%;
+  height: 40px;
+  background-color: #66ae1e;
+}
+
+.container-form .title h2{
+  color: #fff;
+  text-align: center;
+  line-height: 40px;
+}
+
+.input_content{
+  display: flex;
+  margin: 10px 0;
+  align-items: center;
+}
+
+.input_content label{
+  width: 130px;
+  margin-right: 20px;
+  text-align: right;
+  font-weight: bold;
+  font-size: 12px;
+}
+
+.input_content button.send{
+  background-color: #78b43d;
+  width: 55px;
+  height: 26px;
+  border-radius: 3px;
+  border: none;
+  color: #fff;
+  font-weight: bold;
+  margin: 0 5px 0 0;
+  cursor: pointer;
+}
+
+.input_content button.exit{
+  background-color: #62656d;
+  width: 86px;
+  height: 27px;
+  border: none;
+  border-radius: 3px;
+  font-weight: bold;
+  color: #fff;
+  cursor: pointer;
+}
+
+.ghichu{
+  margin: 0 10px;
+  border-top: 1px dashed #e6e6e6 ;
+  padding-top: 5px;
+}
+
+.ghichu p{
+  padding: 10px;
+  background-color: #e6e6e6;
+  font-size: 11px;
+  font-style: italic;
+}
